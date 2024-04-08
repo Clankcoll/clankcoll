@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+As i progress with my goal to become an great DevOps engineer in the mosts fileds i will keep this Read me up to date.
+But for now take this
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6578d1865145316d25f53bbe?variant=dark)](https://roadmap.sh)
+
+
 <!--
 **Clankcoll/clankcoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
