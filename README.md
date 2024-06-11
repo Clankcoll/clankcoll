@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-As i progress with my goal to become an great DevOps engineer in the mosts fileds i will keep this Read me up to date.
+As I progress with my goal to become an great DevOps engineer in the mosts fileds I will keep this Read me up to date.
+
+Jack of all trades, master of none!
+
+“The expert in anything was once a beginner.” – Helen Hayes
+
 But for now take this
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6578d1865145316d25f53bbe?variant=dark)](https://roadmap.sh)
